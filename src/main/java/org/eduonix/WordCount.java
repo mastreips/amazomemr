@@ -19,7 +19,7 @@ import java.util.Date;
  */
 public class WordCount {
 
-    private static boolean devMode = false;
+    private static boolean devMode = true;  //changed from false
 
     public static void main(String[] args)  throws Exception  {
 
